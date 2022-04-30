@@ -1,10 +1,5 @@
 ### Hi there, I'm Sashanth 👋
 
-<!--
-**SashanthMogre/SashanthMogre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 📍 From Bengaluru, Karnataka ,India. 🌏
 - 🔭 I’m currently working on Signboard Transliteration (Project from AI4Bharat).
 - 🌱 I’m currently learning NLP with transformers and Computer Vision,
